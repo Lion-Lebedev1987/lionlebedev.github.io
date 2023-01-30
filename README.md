@@ -1,2 +1,3 @@
-permalink:index.html
-# lionlebedev.github.io
+---
+permalink: /index.html
+---
